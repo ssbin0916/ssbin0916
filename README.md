@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # Project Name
 
 ![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <!DOCTYPE html>
 <html lang="en">
