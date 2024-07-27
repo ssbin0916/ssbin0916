@@ -1,14 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=SEONGBIN_SONG)
 
-![깃허브 언어 사용 순위](https://streak-stats.demolab.com?user=ssbin0916&theme=transparent&locale=ko)
-
-![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbin0916&layout=compact&theme=dark)
-
 [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssbin0916)](https://solved.ac/ssbin0916)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ssbin0916&color=dark)](https://velog.io/@ssbin0916)
-
-
 
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
@@ -20,12 +12,8 @@
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-![QueryDSL](https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=qualys&logoColor=white)
-<img src="https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=qualys&logoColor=white" />
 
-<img src="<img src="https://img.shields.io/badge/jpa-20232a.svg?style=for-the-badge&logo=jpa&logoColor=61DAFB" />" />
-<img src="https://img.shields.io/badge/querydsl-%23007ACC.svg?style=for-the-badge&logo=querydsl&logoColor=white" />
-<img src="" />
+<img src="https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=qualys&logoColor=white" />
 
 <img src="https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
 
