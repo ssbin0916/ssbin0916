@@ -7,6 +7,8 @@
   </p>
 </div>
 
+<br>
+
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
