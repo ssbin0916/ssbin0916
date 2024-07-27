@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![QueryDSL](https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=querydsl&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=querydsl&logoColor=white)
+
 ![QueryDSL](https://your-image-hosting.com/path-to-your-uploaded-logo.png)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=소개말)
