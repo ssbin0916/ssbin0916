@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=SEONGBIN SONG)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=SEONGBIN_SONG)
 
 ![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
