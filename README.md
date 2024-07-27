@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 ![QueryDSL](https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=qualys&logoColor=white)
+<img src="https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=qualys&logoColor=white" />
 
 <img src="<img src="https://img.shields.io/badge/jpa-20232a.svg?style=for-the-badge&logo=jpa&logoColor=61DAFB" />" />
 <img src="https://img.shields.io/badge/querydsl-%23007ACC.svg?style=for-the-badge&logo=querydsl&logoColor=white" />
