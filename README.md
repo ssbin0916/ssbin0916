@@ -141,3 +141,4 @@ EC2
     <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songyouyoung&exclude_repo=songyouyoung.github.io&layout=compact&theme=tokyonight" height = "195px"/>
