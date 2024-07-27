@@ -123,6 +123,8 @@ EC2
 
 <br>
 
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+
 <!-- Contact Section -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
