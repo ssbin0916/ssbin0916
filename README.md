@@ -103,7 +103,10 @@ EC2
   <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=qualys&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=prestashop&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=auchan&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=bevy&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=bower&logoColor=white">
 </div>
 
 <br>
