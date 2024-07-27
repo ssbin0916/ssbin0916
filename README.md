@@ -1,11 +1,11 @@
 <h3 align="center">🗂️ Projects</h3>
-  <ul>
-    <li>
-      <a href="https://github.com/ssbin0916/guitarshop">
-        Guitar Shop - 온라인 악기 쇼핑몰 (2024)
-      </a>
-    </li>
-  </ul>
+<div align="center">
+  <p>
+    <a href="https://github.com/ssbin0916/guitarshop">
+      Guitar Shop
+    </a> - 온라인 악기 쇼핑몰 (2024)
+  </p>
+</div>
 
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
