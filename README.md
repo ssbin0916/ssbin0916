@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/querydsl-%23007ACC.svg?style=for-the-badge&logo=querydsl&logoColor=white" />
 <img src="" />
 
+<img src="https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
