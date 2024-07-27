@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/querydsl-%23E3D61B.svg?style=for-the-badge&logo=querydsl&logoColor=black)
 
 <!DOCTYPE html>
 <html lang="en">
