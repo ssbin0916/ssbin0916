@@ -1,5 +1,4 @@
 <h3 align="center">🗂️ Projects</h3>
-<div align="center">
   <ul>
     <li>
       <a href="https://github.com/ssbin0916/guitarshop">
@@ -7,7 +6,6 @@
       </a>
     </li>
   </ul>
-</div>
 
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
