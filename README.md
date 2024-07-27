@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssbin0916&show_icons=true&theme=radical)
 
 <img src="<img src="https://img.shields.io/badge/jpa-20232a.svg?style=for-the-badge&logo=jpa&logoColor=61DAFB" />" />
-<img src="" />
+<img src="https://img.shields.io/badge/querydsl-%23007ACC.svg?style=for-the-badge&logo=querydsl&logoColor=white" />
 <img src="" />
 
 <!--타이틀 부분-->
