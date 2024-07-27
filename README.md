@@ -19,6 +19,19 @@ Here are some ideas to get you started:
 
 ![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QueryDSL Badge</title>
+</head>
+<body>
+    <h1>QueryDSL Badge Example</h1>
+    <img src="https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+</body>
+</html>
+
 ## Description
 A brief description of your project.
 
