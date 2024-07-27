@@ -145,4 +145,4 @@ EC2
   </a>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbin0916&exclude_repo=ssbin0916.github.io&layout=compact&theme=tokyonight" height = "195px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbin0916&exclude_repo=ssbin0916.github.io/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbin0916&exclude_repo=ssbin0916.github.io" />
