@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <a href="https://github.com/ssbin0916/guitarshop">
-      GUITAR SHOP
+      GUITAR SHOP
     </a> - 온라인 악기 쇼핑몰 (2024)
   </p>
 </div>
