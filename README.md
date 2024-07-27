@@ -43,6 +43,9 @@ https://github.com/ssbin0916/guitarshop
   <a href="https://velog.io/@ssbin0916">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
+
+<br>
+  
   <a href="mailto:ssbin0916@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
