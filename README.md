@@ -15,44 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Project Name
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=소개말)
 
 ![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![QueryDSL Badge](https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/querydsl-%23E3D61B.svg?style=for-the-badge&logo=querydsl&logoColor=black)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>QueryDSL Badge</title>
-</head>
-<body>
-    <h1>QueryDSL Badge Example</h1>
-    <img src="https://img.shields.io/badge/querydsl-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-</body>
-</html>
 
-## Description
-A brief description of your project.
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Installation
-Instructions on how to install and use your project.
-
-## Usage
-Examples of how to use your project.
-
-## Contributing
-Guidelines for contributing to your project.
-
-## License
-Information about the license.
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ssbin0916&color=dark)](https://velog.io/@ssbin0916)
 
