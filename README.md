@@ -21,13 +21,6 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-%23333333.svg?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-</div>
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -39,6 +32,13 @@
 </div>
 
 <br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-%23333333.svg?style=for-the-badge&logo=Apache%20Kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+</div>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
