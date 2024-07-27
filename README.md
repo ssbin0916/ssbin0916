@@ -1,7 +1,5 @@
 https://github.com/ssbin0916/guitarshop
 
-[![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssbin0916)](https://solved.ac/ssbin0916)
-
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
@@ -43,11 +41,11 @@ https://github.com/ssbin0916/guitarshop
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@ssbin0916">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
   </a>
   <a href="mailto:ssbin0916@gmail.com">
-    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbin0916&exclude_repo=ssbin0916.github.io&layout=compact&theme=tokyonight" height = "195px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssbin0916&exclude_repo=ssbin0916.github.io" />
+
+[![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssbin0916)](https://solved.ac/ssbin0916)
