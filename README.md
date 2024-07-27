@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=SEONGBIN_SONG)
+https://github.com/ssbin0916/guitarshop
 
 [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssbin0916)](https://solved.ac/ssbin0916)
 
-<h3 align="center">✨ Skill ✨</h3>
+<h3 align="center">✨ Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
