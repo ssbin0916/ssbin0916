@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=SEONGBIN_SONG)
 
-[![깃허브 커밋 스택](https://streak-stats.demolab.com?user=ssbin0916&theme=transparent&locale=ko)]
+(https://streak-stats.demolab.com?user=ssbin0916&theme=transparent&locale=ko)
 
 ![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbin0916&layout=compact&theme=dark)
 
