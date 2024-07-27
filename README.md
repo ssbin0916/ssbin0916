@@ -48,15 +48,4 @@ https://github.com/ssbin0916/guitarshop
   </a>
 </div>
 
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@ssbin0916">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ssbin0916@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
 [![백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssbin0916)](https://solved.ac/ssbin0916)
