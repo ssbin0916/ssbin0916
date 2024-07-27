@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![QueryDSL](https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=querydsl&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=qualys&logoColor=white)
 ![QueryDSL](https://img.shields.io/badge/querydsl-4B8BBE.svg?style=for-the-badge&logo=querydsl&logoColor=white)
 
 ![QueryDSL](https://your-image-hosting.com/path-to-your-uploaded-logo.png)
