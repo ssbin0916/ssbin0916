@@ -99,6 +99,7 @@ EC2
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=bower&logoColor=white" />
   <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
