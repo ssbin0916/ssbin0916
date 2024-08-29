@@ -1,6 +1,15 @@
 <h3 align="center">🗂️ Projects</h3>
 <div align="center">
   <p>
+    <a href="https://github.com/ssbin0916/yeojeong">
+      여정
+    </a> - 여행 정보 공유 사이트 (2024)
+  </p>
+</div>
+
+<h3 align="center">🗂️ Projects</h3>
+<div align="center">
+  <p>
     <a href="https://github.com/ssbin0916/guitarshop">
       GUITAR SHOP
     </a> - 온라인 악기 쇼핑몰 (2024)
